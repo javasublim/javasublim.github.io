@@ -1,0 +1,17 @@
+.slider h3,
+.slider h5,
+.findus {
+    text-shadow: 5px 5px 7px rgba(0,0,0,0.5);
+}
+
+.parallax-container {
+    height: 25%;
+}
+
+.parallax img{
+    filter: grayscale();
+}
+
+.findus img {
+    max-width: 200px;
+}
